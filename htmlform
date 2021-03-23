@@ -1,0 +1,33 @@
+<form  method='GET'  action='/output'>
+
+No. of times pregnant <input name ='z1'  />
+<br />
+
+plasma glucose <input  name = 'z2' >
+
+<br />
+
+
+BloodPressure <input name = 'z3' />
+<br />
+
+skinThickness   <input name  = 'z4' />
+<br />
+
+Insulin  <input name  = 'z5' />
+<br />
+
+BMI <input name = 'z6' />
+<br />
+
+DiabetesPedigreeFunction  <input name  = 'z7' />
+<br />
+
+Age  <input name  = 'z8' />
+<br />
+
+
+click <input type = 'Submit' />
+<br />
+
+</form>
